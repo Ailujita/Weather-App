@@ -1,0 +1,24 @@
+body {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/131/451/original/backgound-image.jpg?1720032294");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+  height: 100vh;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-weight: lighter;
+}
+
+.weather-app {
+  background: radial-gradient(
+    759px at 14% 22.3%,
+    rgb(10, 64, 88, 0.4) 0%,
+    rgb(15, 164, 102, 0.4) 90%
+  );
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 30px;
+  box-shadow: 0 30px 50px rgba(65, 50, 100 0.08);
+  border-radius: 10px;
+}

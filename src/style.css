@@ -90,6 +90,7 @@ main {
 .weather-app-unit {
   margin-top: 16px;
   font-size: 32px;
+  font-weight: 200;
 }
 
 footer {
